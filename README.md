@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Bem-vindo+ao+meu+perfil!&center=true&width=500&height=45&color=00FF00" />
+</p>
 
-<!--
-**laviniadomingos2/laviniadomingos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Meu nome é Lavínia Domingos
+- 💻 Aprendiz de Desenvolvimento de Sistemas
+- 📫 Contato: [lavindomi@gmail.com](mailto:lavindomi@gmail.com)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laviniadomingos2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniadomingos2&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lav%C3%ADnia-domingos-515534352/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/lavviuu/)
